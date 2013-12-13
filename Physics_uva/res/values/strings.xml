@@ -1,8 +1,13 @@
 <resources>
 
-    <string name="app_name">Physics_uva</string>
-    <string name="hello_world">Helloasd!</string>
+    <string name="app_name">Practicas Fisisca</string>
+    <string name="hello_world">Hello world!</string>
     <string name="menu_settings">Settings</string>
     <string name="title_activity_main">MainActivity</string>
+    <string name="title_inicio">title_inicio</string>
+    <string name="BncOp">Banco óptico</string>
+    <string name="Bpger">Banda prohibida del Germanio</string>
+    <string name="Celec">Campo eléctrico</string>
+    <string name="Tran">Transistor</string>
 
 </resources>
